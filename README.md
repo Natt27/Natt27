@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natan Getachew.
-- 👀 I’m interested in Reactjs, JavaScript, HTML/CSS, Php, Java, Python, C++, MYSQL... 
+- 👀 I’m interested in Reactjs, Nodejs JavaScript, HTML/CSS, Php, Java, Python, OracleSql MYSQL... 
 - 🌱 I’m currently learning Msc in Software Enginnering.
-- 💞️ I’m looking to collaborate on Web Development as a Front end developer.
+- 💞️ As a Full stack developer, I'm looking to work on web projects.
 - 📫 How to reach me natispecial27@gmail.com
 
 <!---
